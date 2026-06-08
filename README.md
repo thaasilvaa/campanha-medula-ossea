@@ -1,2 +1,11 @@
-# campanha-medula-ossea
-Landing page desenvolvida no Figma para uma campanha de conscientização e incentivo à doação de medula óssea. O projeto tem como objetivo divulgar informações sobre o processo de doação, aumentar a conscientização e apoiar uma causa real, utilizando uma interface acolhedora, acessível e centrada no usuário.
+
+  # Landing page for donation campaign
+
+  This is a code bundle for Landing page for donation campaign. The original project is available at https://www.figma.com/design/0HVGWhGoKyjAl5R3657pGw/Landing-page-for-donation-campaign.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
