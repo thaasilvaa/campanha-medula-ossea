@@ -1,8 +1,8 @@
-# 🩸 Conectando Vidas – Campanha de Doação de Medula Óssea
+# Campanha de Doação de Medula Óssea
 
 ## 📖 Sobre o Projeto
 
-**Conectando Vidas** é um projeto de UX/UI Design desenvolvido no Figma com o propósito de apoiar uma campanha real de conscientização e incentivo à doação de medula óssea.
+**Campanha de Doação** é um projeto de UX/UI Design desenvolvido no Figma com o propósito de apoiar uma campanha real de conscientização e incentivo à doação de medula óssea.
 
 A iniciativa foi criada para auxiliar na divulgação da busca por doadores compatíveis para os irmãos de uma professora, utilizando o design como ferramenta de impacto social. O projeto busca tornar informações importantes mais acessíveis, esclarecer dúvidas sobre o processo de doação e incentivar mais pessoas a realizarem o cadastro como possíveis doadores.
 
@@ -19,17 +19,6 @@ O foco principal foi desenvolver uma experiência digital acolhedora, intuitiva 
 - Apoiar uma causa social por meio da tecnologia e do design.
 
 ---
-
-## ✨ Funcionalidades do Protótipo
-
-- Página inicial com mensagem de conscientização;
-- Seção explicativa sobre o que é a doação de medula óssea;
-- Informações sobre como se tornar um doador;
-- Destaque para a urgência e importância da campanha;
-- Chamada para ação (CTA) incentivando o cadastro;
-- Layout responsivo para diferentes dispositivos;
-- Navegação simples e intuitiva;
-- Design centrado no usuário.
 
 
 ## 🛠️ Ferramentas Utilizadas
